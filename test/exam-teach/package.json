@@ -16,7 +16,7 @@
     "element-ui": "^2.10.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-mobile-calendar": "^2.0.0",
